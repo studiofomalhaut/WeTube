@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WeTube/static/css/main.dd0d9dac.chunk.css",
+    "main.js": "/WeTube/static/js/main.f7789017.chunk.js",
+    "main.js.map": "/WeTube/static/js/main.f7789017.chunk.js.map",
+    "runtime-main.js": "/WeTube/static/js/runtime-main.55f33f7d.js",
+    "runtime-main.js.map": "/WeTube/static/js/runtime-main.55f33f7d.js.map",
+    "static/js/2.3f9b14f1.chunk.js": "/WeTube/static/js/2.3f9b14f1.chunk.js",
+    "static/js/2.3f9b14f1.chunk.js.map": "/WeTube/static/js/2.3f9b14f1.chunk.js.map",
+    "index.html": "/WeTube/index.html",
+    "precache-manifest.7144a0e7363ae46d92aec4c5ad299f07.js": "/WeTube/precache-manifest.7144a0e7363ae46d92aec4c5ad299f07.js",
+    "service-worker.js": "/WeTube/service-worker.js",
+    "static/css/main.dd0d9dac.chunk.css.map": "/WeTube/static/css/main.dd0d9dac.chunk.css.map",
+    "static/js/2.3f9b14f1.chunk.js.LICENSE.txt": "/WeTube/static/js/2.3f9b14f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55f33f7d.js",
+    "static/js/2.3f9b14f1.chunk.js",
+    "static/css/main.dd0d9dac.chunk.css",
+    "static/js/main.f7789017.chunk.js"
+  ]
+}
